@@ -1,0 +1,3 @@
+#define LIKE
+
+void doNothing();
