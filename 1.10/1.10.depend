@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1547729439 source:e:\c++ exercises\1.10\main.cpp
+1547730469 source:e:\c++ exercises\1.10\main.cpp
 	<iostream>
 	"header.h"
 
-1547729315 e:\c++ exercises\1.10\header.h
+1547730439 e:\c++ exercises\1.10\header.h
+
+1547730224 source:e:\c++ exercises\1.10\function.cpp
+	<iostream>
 

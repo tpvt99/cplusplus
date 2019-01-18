@@ -1,5 +1,6 @@
 #include <iostream>
 #include "header.h"
+#include "x.h"
 
 using namespace std;
 
